@@ -87,17 +87,4 @@ Evaluates gold as an inflation hedge in India using financial analytics, macroec
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/monal605?style=for-the-badge&label=Followers&color=0A66C2" alt="followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmonal605&color=2f80ed" alt="public repos"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=monal605&hide_border=true" alt="streak stats"/>
-</p>
-
----
-
 <p align="center"><i>Open to internship / new-grad opportunities — let's connect!</i></p>
